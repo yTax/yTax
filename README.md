@@ -19,7 +19,7 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ytax&row=2&column=3ma&theme=tokyonight" alt="ytax" /></a> </p>
-<p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ytax&show_icons=true&theme=tokyonight&locale=en" alt="ytax" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discords.com/bio/p/clarke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kraken" height="30" width="40" /></a>
