@@ -7,15 +7,15 @@
 
                                               - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ [ᴄ++](https://github.com/topics/cpp)
 
-- ɪ ʜᴀᴠᴇ ᴀ ᴡᴇʙsɪᴛᴇ **https://ytax.cc/**
+                                              - ɪ ʜᴀᴠᴇ ᴀ ᴡᴇʙsɪᴛᴇ **https://ytax.cc/**
 
-- ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴍᴀʟᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴋᴇɴ ʟᴏɢɢᴇʀs](https://github.com/topics/malware)
+                                              - ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴍᴀʟᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴋᴇɴ ʟᴏɢɢᴇʀs](https://github.com/topics/malware)
 
-- i know you came here to skid my shit **95% ᴏғ ᴛʜᴇ sᴛᴜғғ ɪ ᴡᴏʀᴋ ᴏɴ ɪs ᴜɴʟɪsᴛᴇᴅ ᴏʀ ᴘʀɪᴠᴀᴛᴇ lol**
+                                              - i know you came here to skid my shit **95% ᴏғ ᴛʜᴇ sᴛᴜғғ ɪ ᴡᴏʀᴋ ᴏɴ ɪs ᴜɴʟɪsᴛᴇᴅ ᴏʀ ᴘʀɪᴠᴀᴛᴇ lol**
 
-- ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ **https://ytax.cc/**
+                                              - ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ **https://ytax.cc/**
 
-- ғᴜɴ ғᴀᴄᴛ **#antiskid**
+                                              - ғᴜɴ ғᴀᴄᴛ **#antiskid**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
