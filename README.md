@@ -2,8 +2,8 @@
 <h3 align="center">ᴀ ʀᴀɴᴅᴏᴍ ᴅᴇᴠ ᴛʜᴀᴛ ʟɪᴋᴇs ᴍᴀʟᴡᴀʀᴇ ᴀɴᴀʟʏsɪs, ᴄʜᴇᴀᴛs ᴀɴᴅ ᴘᴇɴᴛᴇsᴛɪɴɢ</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ytax&label=Profile%20views&color=900cc0&style=flat" alt="ytax" /> </p>
+<p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ytax&show_icons=true&theme=tokyonight&locale=en" alt="ytax" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ytax&row=2&column=3ma&theme=tokyonight" alt="ytax" /></a> </p>
 
                         - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ [ᴄ++](https://github.com/topics/cpp)
 
@@ -18,6 +18,7 @@
                         - ғᴜɴ ғᴀᴄᴛ **#antiskid**
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ytax&row=2&column=3ma&theme=tokyonight" alt="ytax" /></a> </p>
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ytax&show_icons=true&theme=tokyonight&locale=en" alt="ytax" /></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
