@@ -5,17 +5,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ytax&row=2&column=3ma&theme=tokyonight" alt="ytax" /></a> </p>
 
-  - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ [ᴄ++](https://github.com/topics/cpp)
+                  - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ [ᴄ++](https://github.com/topics/cpp)
 
-  - ɪ ʜᴀᴠᴇ ᴀ ᴡᴇʙsɪᴛᴇ **https://ytax.cc/**
+                  - ɪ ʜᴀᴠᴇ ᴀ ᴡᴇʙsɪᴛᴇ **https://ytax.cc/**
 
-  - ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴍᴀʟᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴋᴇɴ ʟᴏɢɢᴇʀs](https://github.com/topics/malware)
+                  - ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴍᴀʟᴡᴀʀᴇ ᴀɴᴅ ᴛᴏᴋᴇɴ ʟᴏɢɢᴇʀs](https://github.com/topics/malware)
 
-  - i know you came here to skid my shit **95% ᴏғ ᴛʜᴇ sᴛᴜғғ ɪ ᴡᴏʀᴋ ᴏɴ ɪs ᴜɴʟɪsᴛᴇᴅ ᴏʀ ᴘʀɪᴠᴀᴛᴇ lol**
+                  - i know you came here to skid my shit **95% ᴏғ ᴛʜᴇ sᴛᴜғғ ɪ ᴡᴏʀᴋ ᴏɴ ɪs ᴜɴʟɪsᴛᴇᴅ ᴏʀ ᴘʀɪᴠᴀᴛᴇ lol**
 
-  - ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ **https://ytax.cc/
+                  - ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ **https://ytax.cc/
 
-  - ғᴜɴ ғᴀᴄᴛ **#antiskid**
+                  - ғᴜɴ ғᴀᴄᴛ **#antiskid**
 
 
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ytax&show_icons=true&theme=tokyonight&locale=en" alt="ytax" /></p>
