@@ -15,8 +15,6 @@
 
                         - ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴍᴀʟᴡᴀʀᴇ ᴀɴᴅ ᴀɴᴀʟʏsɪs](https://github.com/topics/malware)
 
-                        - i know you came here to skid my shit **95% ᴏғ ᴛʜᴇ sᴛᴜғғ ɪ ᴡᴏʀᴋ ᴏɴ ɪs ᴜɴʟɪsᴛᴇᴅ ᴏʀ ᴘʀɪᴠᴀᴛᴇ lol**
-
                         - ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ **https://ytax.cc/
 
 
